@@ -135,5 +135,3 @@ sudo iptables-restore < /path/to/rules.v4
 ## 与 firewalld 的关系
 
 若系统在跑 [firewalld](./firewalld)，它会接管防火墙；直接改 iptables 可能被覆盖。应二选一，或只用 `firewall-cmd`。
-
-总览：[防火墙使用说明](./firewall)。

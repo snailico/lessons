@@ -125,4 +125,3 @@ sudo iptables -L -n -v
 sudo nft list ruleset | less
 ```
 
-总览：[防火墙使用说明](./firewall)。

@@ -4,9 +4,8 @@
 
 ## 怎么读
 
-1. 防火墙：[使用说明](./firewall) → [iptables](./iptables) / [firewalld](./firewalld)
+1. 防火墙：[iptables](./iptables) / [firewalld](./firewalld)
 2. 打开 [指令总览](./commands/) — 12 类场景 + 命令简介（点击命令名进详情）
-3. 需要理解 Tool 与命令关系时看 [总览与权限模型](/linux/overview)、[Tool 对照表](/linux/mapping)
 
 ## 十二类速览
 
